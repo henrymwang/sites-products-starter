@@ -1,0 +1,6 @@
+{
+    "autogenerateSitemap": true, 
+    "denyList": [
+        "/summer"
+    ]
+}  
